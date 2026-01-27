@@ -1,5 +1,5 @@
 package com.healthycoderapp;
-
+//Not Required
 public class DietPlan {
 	private int calories;
 	private int protein;
