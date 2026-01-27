@@ -1,5 +1,5 @@
 package com.healthycoderapp;
-//Not Required
+//ok this class can merge conflict
 public class DietPlan {
 	private int calories;
 	private int protein;
