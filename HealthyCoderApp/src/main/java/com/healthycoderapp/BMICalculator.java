@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class BMICalculator {
-	
+	// just for Testing commit
 	private static final double BMI_THRESHOLD = 25.0;
 
 	public static boolean isDietRecommended(double weight, double height) {
