@@ -1,5 +1,5 @@
 package com.healthycoderapp;
-
+///kh.kj,mdsazz
 public class DietPlanner {
 
 	private int proteinPercentage;
