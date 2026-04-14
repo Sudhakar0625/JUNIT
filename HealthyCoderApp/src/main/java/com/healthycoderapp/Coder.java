@@ -12,8 +12,7 @@ public class Coder {
 		this.height = height;
 		this.weight = weight;
 	}
-	// thid is the testing for ,ergeokjo;h/li.ojj
-	
+	// Yes this is the latest Change-1
 	public Coder(double height, double weight, int age, com.healthycoderapp.Gender gender) {
 		super();
 		this.height = height;
