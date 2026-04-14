@@ -6,7 +6,7 @@ public class Coder {
 	private double weight;
 	private int age;
 	private Gender gender;
-		
+		//ok this comment for merge
 	public Coder(double height, double weight) {
 		super();
 		this.height = height;
