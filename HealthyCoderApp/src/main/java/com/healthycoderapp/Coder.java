@@ -5,15 +5,16 @@ public class Coder {
 	private double height;
 	private double weight;
 	private int age;
-	private Gender gender;
-		//ok this comment for merge
+	private com.healthycoderapp.Gender gender;
+		
 	public Coder(double height, double weight) {
 		super();
 		this.height = height;
 		this.weight = weight;
 	}
+	// thid is the testing for ,ergeokjo;h/li.ojj
 	
-	public Coder(double height, double weight, int age, Gender gender) {
+	public Coder(double height, double weight, int age, com.healthycoderapp.Gender gender) {
 		super();
 		this.height = height;
 		this.weight = weight;
@@ -39,10 +40,10 @@ public class Coder {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	public Gender getGender() {
+	public com.healthycoderapp.Gender getGender() {
 		return gender;
 	}
-	public void setGender(Gender gender) {
+	public void setGender(com.healthycoderapp.Gender gender) {
 		this.gender = gender;
 	}	
 }
